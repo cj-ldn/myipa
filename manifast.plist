@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/cj-ldn/myipa/blob/master/wm.ipa</string>
+                    <string>https://github.com/cj-ldn/myipa/raw/master/wm.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/cj-ldn/myipa/blob/master/down-logo57.png</string>
+                    <string>https://github.com/cj-ldn/myipa/raw/master/down-logo57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://github.com/cj-ldn/myipa/blob/master/down-logo512.png</string>
+                    <string>https://github.com/cj-ldn/myipa/raw/master/down-logo512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
